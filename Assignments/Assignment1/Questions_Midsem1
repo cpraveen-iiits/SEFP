@@ -1,0 +1,22 @@
+6: What are the examples used by Falkoff to express Software Specification Languages?
+Ans: B
+A: ALGOL
+B: APL
+C: COBOL
+D:LISP
+
+7:: What is the reason for a divergence between Software specification languages
+Ans: C
+A: lack of mutual understanding
+B: lack of software coincidence
+C: lack of sufficiently powerful optimization techniques.
+D: Lack of information in Software Specification
+
+8: Describe a possibility to aid technology Transfer?
+ANS:Another possibility for aiding technology transfer lies in studying in detail actual ongoing production efforts. I think a great deal of information on the influence of new methods on production can be gained by a bona fide analysis of project performance. A combination of that kind of hard information with selected experiments and demonstrations might be much more effective than either alone.
+
+9: Describe the comment made by Dijkstra on practical and theoretical people. ?
+ANS: These were the words from Dijkstra “I would like to comment on the distinction that has been made between practical and theoretical people. I must stress that I feel this distinction to be obsolete, worn out, inadequate and fruitless. It is just no good, if you want to do anything reasonable, to think that you can work with such simple notions. Its inadequacy, amongst other things, is shown by the fact that I absolutely refuse to regard myself as either impractical or not theoretical.”
+
+10: What is the difference between  fully executable specification of a system and what we have done at Vienna Method
+ANS: There is an important difference between a fully executable specification of a system and what we have done at Vienna. For example, the state of our abstract PL/1 machine has to be indeterminate where PL/1 does not specify a meaning to an action, or specifies only constraints. The axiomatic part of our scheme is an important part, and it is just not executable in any traditional sense.
